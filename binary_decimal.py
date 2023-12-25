@@ -9,4 +9,4 @@ while(num>0):
     c=(2**counter)*store
     tem=tem+c
     counter+=1
-print(tem,end="")
+print("Decimal Value is : ",tem)
